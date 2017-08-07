@@ -1,9 +1,11 @@
 # google_search
 # Google Search Engine for Trending Material Science Materials
-# Authors: Jordan Alexis Caraballo Vega - Petra Mercado Bougart High School
-#          Jose O. Sotero Esteva - University of Puerto Rico at Humacao
+ 
+ Authors: Jordan Alexis Caraballo Vega - Petra Mercado Bougart High School
+          Jose O. Sotero Esteva - University of Puerto Rico at Humacao
 
 #----------------------------------------------------------------------------------------------------
+
 Overview:
 
 Work done for the 2015 Puerto Rico Sience Fair Competition under the Computer Science Category.
