@@ -1,26 +1,21 @@
-# google_search
 # Google Search Engine for Trending Material Science Materials
  
  Authors: Jordan Alexis Caraballo Vega - Petra Mercado Bougart High School,
           Jose O. Sotero Esteva - University of Puerto Rico at Humacao
 
-#----------------------------------------------------------------------------------------------------
+## Overview:
 
-Overview:
-
-Work done for the 2015 Puerto Rico Sience Fair Competition under the Computer Science Category.
+Work done for the 2015 Puerto Rico Science Fair Competition under the Computer Science Category.
 Title: Analysis of trends in scientific public publications using Data Mining
 
-With the use of data mining techniqyes we can access web pages from Google produce mathematical analysis of publications
+With the use of data mining techniques we can access web pages from Google produce mathematical analysis of publications
 through time. With this we are able to know what materials are a hot topic.
 
 We used a python library called Gscholar that let us query any type of parameters and that will let us download the
 desired information. The algorithm works with multiple functions created to execute and parse the search. Obtained 
 information will let the user analyze multiple topics in histogram, star plots, scatter plots, and others.
 
-#----------------------------------------------------------------------------------------------------
-
-Usage and Functions:
+## Usage and Functions:
 
 Download HTML: 
   This process extracts the selected query from Google Scholar. Elements like the title, authors, dates, 
@@ -37,9 +32,7 @@ Analysis:
   of polymer related articles, carbon black, fullerenes, and others. Different types of visualizations are available that 
   are really useful at the time of getting field stats for writing articles and to start buying materials.
 
-#----------------------------------------------------------------------------------------------------
-
-References:
+## References:
 
 Python Software Foundation, Bastian Venthur (2014). “gscholar 1.0”. Retrieved on January 14, 2014 from 
   https://pypi.python.org/pypi/gscholar/1.0
